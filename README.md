@@ -15,6 +15,7 @@
 - Download the latest recommended Python version for Windows.
 - Open the installer after it finishes downloading.
 - **IMPORTANT: At the bottom of the installer window, check the box that says "Add python.exe to PATH" before clicking Install Now. If you skip this step, the code will not run from your computer properly.**
+  ![Add python.exe to PATH](images/add_python_exe_to_path.png)
 - Click **Install Now**.
 - Wait for the installation to finish.
 - If Windows asks for permission, click **Yes**.
@@ -35,6 +36,7 @@
 - The Extensions icon looks like small blocks or squares.
 - In the search box, type **Python**.
 - Find the official **Python** extension made by **Microsoft** and click **Install**.
+  ![Python extension in VS Code](images/vscode_python_extension.png)
 - In the search box, type **Code Runner**.
 - Find the **Code Runner** extension and click **Install**.
 - Wait a few moments for both extensions to finish installing.
